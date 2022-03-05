@@ -1,0 +1,59 @@
+1. Test case là gì? Gồm những mục nào?
+- Trường hợp kiểm thử (test case) là bản trình bày những thông tin về việc kiểm thử một hạng mục. Với test case, tester sẽ biết những bước tiến hành, thông số kiểm thử của hạng mục được kiểm thử. Nhờ vậy, Tester có thể đảm bảo chất lượng của những hạng mục nhỏ và sản phẩm cuối cùng. Test case còn giúp tester khác, người quản lý biết hạng mục, trường hợp nào đã kiểm thử.
+
+2. Test Plan là gì? Làm sao để lập Test Plan?
+- Kế hoạch kiểm thử (test plan) là bản tổng quát chi tiết về quá trình kiểm thử. Test plan mô tả mục tiêu, phạm vi, hướng tiếp cận, phân công nguồn lực và lịch trình kiểm thử. Nó còn bao gồm những phần khác như hạng mục cần - không cần kiểm thử, công cụ, kết quả,... Test plan là cơ sở để người quản lý đưa ra những quyết định về việc kiểm thử. Ngoài ra, test plan còn giúp tester xác định tiêu chí cần thiết để xác nhận chất lượng sản phẩm.
+- Theo tiêu chuẩn IEEE 829, cần phải thực hiện 7 bước sau để lập test plan:
+	- Phân tích sản phẩm
+	- Lập chiến lược kiểm thử (test strategy)
+	- Xác định mục tiêu kiểm thử ( test objective)
+	- Xác định tiêu chí kiểm thử ( test criteria)
+	- Hoạch định nguồn lực ( nhân lực, phần cứng, tài liệu,...)
+	- Xác định môi trường kiểm thử ( test environment)
+	- Lập lịch trình kiểm thử và Dự toán ngân sách
+	- Xác định kết quả kiểm thử ( test deliverable)
+
+3. Phân tích white-box và black-box test 
+- Kiểm thử hộp trắng ( white-box test):
+	- Là kiểm thử code, thuật toán ( algorithm) và kiến trúc sản phẩm
+	- Test case được xây dựng dựa vào cấu trúc code, cách thức vận hành code
+	- Tester phải am hiểu lập trình vì phải xem mã nguồn khi kiểm thử
+- Kiểm thử hộp đen ( black-box test):
+	- Là kiểm thử thông số kỹ thuật, hành vi bên ngoài của sản phẩm
+	- Test case được xây dựng theo bản đặc tả yêu cầu SRS ( Software requirements specification)
+	- Tester không cần biết lập trình vì không phải kiểm thử code hay thuật toán.
+
+4. Khi nào không nên dùng test automation ?
+	- Ngân sách hạn hẹp
+	- Khi tester kiểm thử giao diện (UI), trải nghiệm người dùng (UX) hoặc tính hữu dụng
+	- Nếu sản phẩm chưa ổn định, thay đổi liên tục thì test automation sẽ gây lãng phí tài nguyên
+	- Với các test case quá phức tạp thì việc kiểm tự động sẽ gây lãng phí nguồn lực
+	- Khi tester phải kiểm thử thủ công ( manual test) để hiểu sâu hơn về hệ thống.
+
+5. Phân biệt verification và validation
+- Kiểm định ( verification):
+	- Thực hiện ở từng, giữa mỗi giai đoạn của quá trình
+	- Đánh giá những hạng mục nhỏ nhằm đảm bảo sản phẩm đáp ứng nhu cầu của từng giai đoạn
+	- Đảm bảo sản phẩm cuối đáp ứng yêu cầu về đặc điểm kỹ thuật
+	- Trả lời câu hỏi " Chúng ta có đang phát triển sản phẩm đúng cách không?"
+	- Là hoạt động cấp thấp, không cần chạy test
+	- Gồm những kỹ thuật tĩnh ( static) như đánh giá ( review), kiểm tra (inspection), tổng duyệt (walkthrough),..
+- Thẩm định ( validation):
+	- Được thực hiện ở giai đoạn cuối của quá trình phát triển sản phẩm, sau khi hoàn thành verification
+	- Đảm bảo sản phẩm cuối đáp ứng yêu cầu nghiệp vụ, nhu cầu khách hàng
+	- Trả lờ câu hỏi " Chúng ta có đang phát triển sản phẩm thích hợp không?"
+	- Là hoạt động cấp cao, cần chạy sản phẩm khi đánh giá
+	- Gồm những kỹ thuật động (dynamic) như kiểm thử hồi quy ( regeression test), kiểm thử chức năng (functional test),...
+
+6. Như thế nào là bug life cycle?
+- Bug life cycle là tập hợp những trạng thái mà bug trải qua trong vòng đời
+- Vòng đời bug ( bug life cycle) là tập hợp những trạng thái mà lỗi (bug) trải qua trong vòng đời. Nhờ có quy trình cho một vòng đời bug mà tester dễ dàng quản lý bug hơn. Quy trình này thường diễn ra theo 4 bước sau: 
+	1. Tester phát hiện bug
+	- Tạo nhật ký bug, gán trạng thái " STATUS = NEW (MỚI)"
+	- Báo cáo, chuyển bug cho Quản lý dự án
+	2. Quản lý dự án phân tích bug
+	- Bug có hợp lệ không?
+		- Không: gán trạng thái " STATUS = REJECTED ( TỪ CHỐI)"
+		- Có: tiếp tục
+	-Bug có thuộc phạm vi kiểm thử không
+

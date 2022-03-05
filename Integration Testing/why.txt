@@ -1,0 +1,14 @@
+Unit Testing -> Integration Testing -> System Testing -> Acceptance Testing 
+
+Các lỗi vẫn tồn ttaij vì nhiều lý do:
+	
+	Nói chung, một mô-đun được thiết kế bởi một nhà phát triển phần mềm riêng lẻ mà sự hiểu biết và logic lập trình của họ có thể khác với các lập trình viên khác. Kiểm thử tích hợp trở nên cần thiết để xác minh các mô-đun phần mềm hoạt động thống nhất.
+	
+	Tại thời điểm phát triển mô-đun, có rất nhiều cơ hội để khách hàng thay đổi các yêu cầu. Các yêu cầu mới này có thể không đươc kiểm tra đơn vị và do đó việc kiểm tra tích hợp hệ thống trở nên cần thiết.
+
+	Giao diện của các mô-đun phần mềm với cơ sỡ dữ liệu có thể bị lỗi
+	
+	Các giao diện phần cứng bên ngoài , nếu có, có thể bị lỗi
+
+	Xử lý ngoại lệ không thích hợp có thể gây ra sự cố.
+	

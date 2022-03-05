@@ -1,0 +1,2 @@
+What is Test Management ?
+--- Quản lý kiểm thử là một quá trình quản lý các hoạt động kiểm thử đảm bảo chất lượng cao và là kiểm khử cao cấp của ứng dụng phần mềm. Phương pháp này bao gồm tổ chức, kiểm soát (controlling), đảm bảo khả năng truy suất nguồn gốc và khả năng hiển thị của quá trình thử nghiệm để cung cấp ứng dụng phần mềm chất lượng cao. Nó đảm bảo rằng quá trình kiểm thử phần mềm chạy như mong đợi. ---

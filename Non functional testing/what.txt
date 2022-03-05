@@ -1,0 +1,7 @@
+kiểm tra không chức năng được định nghĩa là một loại kiểm thử phần mềm để kiểm tra các khía cạnh phi chức năng ( hiệu suất, khả năng sử dụng, độ tin cậy) của một ứng dụng phần mềm. Nó được thiết kế để kiểm tra tính sẵn sàng của hệ thống theo các tham số phi chức năng mà không bao giờ được giải quyết bằng kiểm tra chức năng. 
+
+Có ba loại thử nghiệm
+
+	Chức năng
+	Không chức năng
+	Bảo dưỡng

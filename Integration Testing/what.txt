@@ -1,0 +1,3 @@
+kiểm thử tích hợp được định nghĩa là một kiểu kiểm thử trong đó các mô-đun phần mềm được tích hợp một cách logic và được kiểm tra như một nhóm. Một dự án phần mềm điển hình bao gồm nhiều mô-đun phần mềm, được mã hóa bởi các developer khác nhau. Mục đích của mức độ kiểm tra này là để lộ các khiếm khuyết trong sự tương tác giữa các mô-đun phần mềm khi chúng được tích hợp. 
+
+kiểm thử tích hợp tập trung vào việc kiểm tra giao tiếp dữ liệu giữa các mô-đun này. Do đó, nó còn được gọi là 'I&T' (Tích hợp và thử nghiệm), 'Kiểm tra chuỗi' và đôi khi là 'Kiểm tra luồng'.

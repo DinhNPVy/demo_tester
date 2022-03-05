@@ -1,0 +1,23 @@
+1. Giới thiệu về bản thân
+
+2. Theo bạn, để trở thành một Tester cần có những tố chất gì? bạn có thể tự đánh giá bản thân đã đáp ứng được bao nhiêu phần trăm những phẩm chất đó
+- Tố chất cần có của một tester là một nhân viên kiểm thử cần phải chăm chỉ, cẩn thận và tỉ mĩ và có trách nhiệm với công việc đươc giao. Đồng thời phải trau dồi kỹ năng phân tihcs và xử lý những vấn đề lập trình thành thạo nhất. Ngoài ra, Tester cần phải có tính học hỏi, tiếp thu cái mới và sẵn lòng làm thêm giờ khi được yêu cầu.
+
+3. Kiểm thử phần mềm là gì? Quy trình thực hiện các bước kiểm thử phần mềm bao gồm những bước nào?
+- Kiểm thử phần mềm là quá trình kiểm tra và phát hiện lỗi của phần mềm. Kiểm thử phần mềm giúp đảm bảo đáp ứng đầy đủ các tiêu chí, yêu cầu của khách hàng. Đồng thời đánh giá và kiểm soát được những rủi ro có thể xảy ra trong quá trình thực thi.
+- Nhân viên kiểm thử phần mềm cần thực hiện công việc theo quy trình:
+	- Chạy dự án theo yêu cầu 
+	- Thực hiện công việc chuẩn bị kiểm thử
+	- Tiến hành làm bài kiểm tra thử nghiệm các công cụ hỗ trợ
+	- Thực hiện công việc hậu kiểm thử đảm bảo chất lượng và tiêu chí của sản phẩm
+	- Làm báo cáo kết quả
+
+4. Có bao nhiêu giai đoạn để kiểm thử phần mềm? Những giai đoạn đó là gì?
+- Dạ thưa có 4 giai đoạn kiểm thử phần mềm đó là: Unit Testing - Intergration Testing - System Testing - Acceptance Testing.
+
+5. Có bao nhiêu phương pháp kiểm thử phần mềm?
+- Kiểm thử hộp trắng tiến hành kiểm tra mã code, thuật toán, cấu trúc chương trình.
+- Kiểm thử hộp đen sẽ xây dựng các trường hợp Test theo yêu cầu khách hàng, đồng thời đưa ra chức năng của hệ thống.
+
+6. Nếu đã Test cẩn thận nhưng khách hàng vẫn phàn nàn về chất lượng thì xử lý như nào ?
+- Công việc của Tester trước trường trường hợp khách hàng không hài lòng về chất lượng đó là hỏi khách hàng có điều gì không hài lòng và có nhu cầu thay đổi điểm gì ở sản phẩm hay không

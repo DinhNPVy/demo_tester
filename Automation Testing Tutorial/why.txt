@@ -1,0 +1,70 @@
+---Tự động hóa kiểm thử là cách tốt nhất để tăng hiệu quả, phạm vi kiểm tra và tốc độ thực thi trong kiểm thử phần mềm. Kiểm thử phần mềm tự động rất quan trọng do những lý do sau:
+
+	Kiểm tra thủ công tất cả các quy trình công việc, tất cả lĩnh vực, tất cả các 	kịch bản tiêu cực là tiêu tốn thời gian và tiền bạc.
+
+	Rất khó để kiểm tra các trang web đa ngôn ngữ theo cách thủ công
+	
+	Tự động hóa kiểm thử trong kiểm thử phần mềm không cần đến sự can 	thiệp của Con người. Bạn có thể chạy thử nghiệm tự động mà không cần 	giám sát (qua đêm)
+
+	Tự động hóa kiểm tra tăng tốc độ thực hiện kiểm tra
+	
+	Tự động hóa giúp tăng phạm vi kiểm tra
+
+	Kiểm tra thủ công có thể trở nên nhàm chán và do đó dễ xảy ra lỗi.
+
+--- Những trường hợp thử nghiệm nào để tự động hóa ---
+
+Sử dụng tiêu chí sau để tăng ROI tự động hóa
+	
+	Rủi ro cao - Các trường hợp thử nghiệm quan trọng trong kinh doanh
+	
+	Các trường hợp thử nghiệm được thực thi nhiều lần
+
+	Các trường hợp kiểm tra rất tẻ nhạt hoặc khó thực hiện thủ công
+
+	Các trường hợp kiểm tra tốn nhiều thời gian
+
+--- Danh mục các trường hợp kiểm thử sau đây không phù hợp với tự động hóa ---
+	
+	Kiểm tra được thiết kế mới và không được thực thi thủ công ít nhất một 	lần
+
+	Kiểm tra mà các yêu cầu thường xuyên thay đổi
+	
+	Kiểm thử được thực thi trên cơ sở đặc biệt
+
+--- Quy trình kiểm tra tự động ---
+	
+	B1: Lựa chọn công cụ kiểm tra -- Test tool selection
+
+	B2: Xác định phạm vi Tự động hóa -- Define scope of Automation
+
+	B3: Lập kế hoạch, thiết kế và phát triển -- Planning, Design and 										Development
+	
+	B4: Thực thi kiểm tra -- Test Execution 
+
+	B5: Bảo trì -- Maintenace
+
+--- Có bốn loại khuôn khổ được sử dụng trong kiểm thử phần mềm tự động hóa ---
+
+	1. Khung tự động hóa
+	2. Khung tự động hóa theo hướng dữ liệu
+	3. Khung tự động hóa theo hướng từ khóa
+	4. Khung tự động hóa mô-đun
+	5. Khung tự động hóa hỗn hợp
+
+--- Sau đây là các lợi ích của Tự động hóa Kiểm tra ---
+	Nhanh hơn 70% so với thử nghiệm thủ công
+	Phạm vi kiểm tra rộng hơn của các tính năng ứng dụng
+	Đáng tin cậy về kết quả
+	Đảm bảo tính nhất quán
+	Tiết kiệm thời gian và chi phí
+	Cải thiện độ chính xác
+	Sự can thiệp của con người là không cần thiết trong khi thực hiện
+	Tăng hiệu quả
+	Tốc độ tốt hơn trong việc thực hiện các bài kiểm tra
+	Các tập lệnh thử nghiệm có thể sử dụng lại
+	Kiểm tra thường xuyên và kỹ lưỡng
+	Có thể đạt được nhiều chu kỳ thực thi hơn thông qua tự động hóa
+	Thời gian sớm để tiếp thị
+
+

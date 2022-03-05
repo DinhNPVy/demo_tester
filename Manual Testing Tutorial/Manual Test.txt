@@ -1,0 +1,1 @@
+Kiểm thử thủ công là một loại kiểm thử phần mềm trong đó các trường hợp kiểm thử được người kiểm thử thực hiện theo cách thủ công mà không sử dụng bất kỳ công cụ tự động nào. Mục đích của kiểm thử thủ công là xác định các lỗi, sự cố và khiếm khuyết trong ứng dụng phần mềm.

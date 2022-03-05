@@ -1,0 +1,14 @@
+đơn vị kiểm tra là rất quan trọng bởi vì các developer phần mềm đôi khi cố gắng tiết kiệm thời gian làm kiểm tra đơn vị tối thiểu và đây là huyền thoại vì không phù hợp kiểm tra đơn vị dẫn đến chi phí cao Defect sửa chữa trong quá trình kiểm tra hệ thống , kiểm tra tích hợp và thậm chí Beta thử nghiệm sau khi ứng dụng được xây dựng. Nếu thử nghiệm đơn vị thích hợp được thực hiện trong quá trình phát triển sớm, thì cuối cùng nó sẽ tiết kiệm thời gian và tiền bạc.
+
+--- Mức độ kiểm tra đơn vị ---
+Unit Testing -> Integration Testing -> System Testing -> Acceptance Testing
+
+--- Lý do ---
+	
+	Kiểm thử đơn vị giúp sửa lỗi sớm trong chu kỳ phát triển và tiết kiệm chi	 	phí.
+
+	Nó giúp các nhà phát triển hiểu cơ sở mã thử nghiệm và cho phép họ thực 	hiện các thay đổi nhanh chóng
+
+	Các bài kiểm tra đơn vị tốt đóng vai trò là tài liệu dự án
+
+	Kiểm tra đơn vị giúp sử dụng lại mã. Di chuyển cả mã và thử nghiệm của 	bạn sang dự án mới của bạn. Chỉnh sửa mã cho đến khi các bài kiểm tra 	chạy lại.

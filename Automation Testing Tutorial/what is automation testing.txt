@@ -1,0 +1,1 @@
+kiểm thử tự động là một kỹ thuật kiểm thử phần mềm thực hiện bằng cách sử dụng các công cụ phần mềm kiểm thử tự động đặc biệt để thực thi một bộ trường hợp kiểm thử. Ngược lại, kiểm thử thủ công được thực hiện bởi một người ngồi trước máy tính thực hiện các bước kiểm tra một cách cẩn thận.

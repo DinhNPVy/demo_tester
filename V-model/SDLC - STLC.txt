@@ -1,0 +1,12 @@
+Điều khoản Kỹ thuật Phần mềm chính:
+SDLC : SDLC là vòng đời phát triển phần mềm. Nó là chuỗi các hoạt động được thực hiện bởi Nhà phát triển để thiết kế và phát triển phần mềm chất lượng cao.
+
+STLC  ( Software Testing Life Cycle): STLC là vòng đời của kiểm thử phần mềm. Nó bao gồm một loạt các hoạt động do Người kiểm tra thực hiện một cách có phương pháp để kiểm tra sản phẩm phần mềm của bạn
+---Có sáu giai đoạn chính sau đây trong mọi Mô hình vòng đời kiểm thử phần mềm (Mô hình STLC):
+
+	Phân tích yêu cầu
+	Lập kế hoạch kiểm tra
+	Phát triển trường hợp thử nghiệm
+	Thiết lập môi trường thử nghiệm
+	Thực hiện kiểm tra
+	Kết thúc chu kỳ kiểm tra

@@ -1,0 +1,4 @@
+một thử nghiệm kịch bản được định nghĩa là bất kỳ chức năng có thể được kiểm tra. Nó còn được gọi là Tình trạng kiểm tra hoặc khả năng kiểm tra. Là người thử nghiệm, bạn nên mình vào vị trí của người dùng cuối và tìm ra các tình huống và trường hợp sử dụng trong thế giới thực của Ứng dụng đang được thử nghiêm.
+
+--- Kiểm tra tình huống ---
+Kiểm thử kịch bản trong kiểm thử phần mềm là một phương pháp tróng đó các kịch bản thực tế được sử dụng để kiểm thử ứng dụng phần mềm thay vì các trường hợp kiểm thử. Mục đích của kiểm thử kịch bản là kiểm tra các kịch bản đầu cuối cho một vấn đề phức tạp cụ thể của phần mềm. Các kịch bản giúp kiểm tra và đánh giá các vấn đề phức tạp một cách dễ dàng hơn.

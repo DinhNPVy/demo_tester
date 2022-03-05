@@ -1,0 +1,5 @@
+V-model là một mô hình SDLC có tính kỉ luật cao, trong đó có một giai đoạn thử nghiệm song song với mỗi giai đoạn phát triển. Mô hình V là một phần mở rộng của mô hình thác nước, trong đó thử nghiệm được thực hiện trên từng giai đoạn song song với phát triển một cách tuần tự. Nó được gọi là mô hình xác thực hoặc xác minh.
+
+Mô hình thác nước: là một mô hình tuần tự được chia thành các giai đoạn khác nhau của hoạt động phát triển phần mềm. Mỗi giai đoạn được thiết kế để thực hiện các hoạt động cụ thể. Giai đoạn thử nghiệm trong mô hình thác nước chỉ bắt đầu sau khi thực hiện xong hệ thống.
+
+Các giai đoạn : Requirement -> Design -> Build -> Test -> Deployment -> Maintenance .
